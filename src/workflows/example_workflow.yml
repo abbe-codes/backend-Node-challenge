@@ -1,6 +1,8 @@
-name: "example_workflow"
+name: "example_workflow_with_area"
 steps:
-  - taskType: "analysis"
+  - taskType: "polygonArea"
     stepNumber: 1
-  - taskType: "notification"
+  - taskType: "analysis"
     stepNumber: 2
+  - taskType: "notification"
+    stepNumber: 3
