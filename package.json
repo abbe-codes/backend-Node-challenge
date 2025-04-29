@@ -13,15 +13,19 @@
     "marked": "^15.0.3",
     "reflect-metadata": "^0.2.2",
     "sqlite3": "^5.1.7",
-    "typeorm": "^0.3.20"
+    "typeorm": "^0.3.20",
+    "winston": "^3.17.0"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
     "@types/express": "^5.0.0",
+    "@types/jest": "^29.5.14",
     "@types/js-yaml": "^4.0.9",
     "@types/jsonwebtoken": "^9.0.7",
     "@types/node": "^22.10.1",
+    "@types/supertest": "^6.0.3",
     "nodemon": "^3.1.7",
+    "supertest": "^7.1.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.7.2"
   }
